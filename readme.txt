@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Creating a new branch is good for fix bug.
 really fucking good
-I am learning git
