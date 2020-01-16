@@ -4,5 +4,3 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 Really nigger?
-Creating a new is good for fix bug.
-
