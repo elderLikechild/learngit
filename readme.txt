@@ -7,3 +7,4 @@ Creating a new branch is good for fix bug.
 I am learning git.
 Rebase is making better history.
 learning 1.
+learning 2.
